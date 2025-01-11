@@ -8,7 +8,8 @@ let objetoB = {
     cm:"46",
 }
 
-Object.assign(objetoA, objetoB);
+console.log(objetoA)
 
+Object.assign(objetoA, objetoB);
 console.log(objetoA);
 prompt('sla')
